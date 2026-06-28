@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issabengassem&label=Profile%20views&color=0e75b6&style=flat" alt="issabengassem" /> </p>
 
-- 🔭 I’m currently working on [ReserveCut]([https://reservecut.me/reservecut.me](https://reservecut.me/salons))
+- 🔭 I’m currently working on [ReserveCut](https://reservecut.me/)
 
 - 🌱 I’m currently learning **Deep Learning**
   
